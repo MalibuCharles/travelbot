@@ -6,3 +6,5 @@ A quick fun project where you get to find your next vacay! We provide you a rand
 
 
 In app.js you may enter any destination you please in the array.
+
+You may upgrade the background image to match the theme of the type of vacations you will provide.
